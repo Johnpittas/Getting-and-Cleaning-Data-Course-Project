@@ -29,7 +29,7 @@ In this repository, you find:
 - *README.md* : the analysis of the code in *run_analysis.R*
 
 - *analysis.html* : the html version of *README.md* that can be accessed at 
-https://github.com/Johnpittas/Getting-and-Cleaning-Data-Course-Project#getting-and-cleaning-data-course-project
+https://github.com/Johnpittas/Getting-and-Cleaning-Data-Course-Project#getting-and-cleaning-data-course-project/analysis.html
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
